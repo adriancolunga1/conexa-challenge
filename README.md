@@ -12,7 +12,7 @@
 **Clonar repositorio**
 
 ```bash
-git clone https://github.com/adriancolunga/conexa-challenge.git
+git clone https://github.com/adriancolunga1/conexa-challenge.git
 ```
 
 **Desplegar**
